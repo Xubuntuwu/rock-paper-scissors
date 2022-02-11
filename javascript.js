@@ -86,3 +86,4 @@ function game() {
 game();
 
 //Yay this project was easier than expected!
+//this is the old version that can be played on console + prompts
